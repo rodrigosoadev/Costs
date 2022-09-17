@@ -1,3 +1,5 @@
+![bandicam 2022-09-17 20-56-57-222](https://user-images.githubusercontent.com/101139441/190880030-b3599a1d-e61d-4ab8-8836-84b002e1f1c2.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
